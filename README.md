@@ -1,7 +1,7 @@
 # IMDB-Movie-Reviews-Sentiment-Analysis-Using-LSTM
 
 
-This project is a **natural language processing (NLP) application that performs sentiment analysis on movie reviews. It uses a Long Short-Term Memory (LSTM) neural network built with Keras to classify whether a review is **positive or **negative. The model is served using FastAPI for backend API services and Gradio for an interactive web interface.
+This project is a **natural language processing (NLP)** application that performs sentiment analysis on movie reviews. It uses a Long Short-Term Memory (LSTM) neural network built with Keras to classify whether a review is **positive** or **negative**. The model is served using FastAPI for backend API services and Gradio for an interactive web interface.
 
 ## 🔧  Tech Stack
 
